@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1600480435704" clover="3.2.0">
-  <project timestamp="1600480435704" name="All files">
-    <metrics statements="25" coveredstatements="25" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="34" coveredelements="34" complexity="0" loc="25" ncloc="25" packages="1" files="1" classes="1"/>
+<coverage generated="1600482517455" clover="3.2.0">
+  <project timestamp="1600482517455" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2" elements="35" coveredelements="35" complexity="0" loc="25" ncloc="25" packages="1" files="1" classes="1"/>
     <file name="income-tax-calculator.ts" path="D:\Git\income-tax\src\income-tax-calculator.ts">
-      <metrics statements="25" coveredstatements="25" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <metrics statements="25" coveredstatements="25" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -18,9 +18,9 @@
       <line num="12" count="1" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
       <line num="14" count="3" type="stmt"/>
-      <line num="15" count="3" type="cond" truecount="1" falsecount="0"/>
-      <line num="16" count="2" type="stmt"/>
-      <line num="17" count="2" type="stmt"/>
+      <line num="15" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
       <line num="18" count="3" type="stmt"/>
       <line num="19" count="3" type="cond" truecount="1" falsecount="0"/>
       <line num="20" count="1" type="stmt"/>
