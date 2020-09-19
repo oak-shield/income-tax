@@ -7,9 +7,9 @@ describe('income tax validator', () => {
 
   /* Apenas os testes:
 
-    - test('should incomeTax==350 if salary is 3000')
-    - test('should incomeTax==600 if salary is 4000')
-    - test('should incomeTax==225 if salary is 1500')
+    - test('should incomeTax==600 if salary > 2000')
+    - test('should incomeTax==225 if salary > 1000 && salario <= 2000')
+    - test('should incomeTax==0 if salary < 1000')
 
     Cobrem todas as sentenças (Stmts) e ramos (Branch) do código
   */
